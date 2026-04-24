@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e95df"],{"8cdb":function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e._self._c;return t("div",{staticStyle:{height:"100vh",display:"flex","align-items":"center","justify-content":"center","font-size":"clamp(18px,3vw,50px)","font-weight":"500"}},[e._v(e._s(e.message))])},c=[],i={name:"Page404",computed:{message(){return"对不起，找不到该页面"}}},a=i,u=n("2877"),f=Object(u["a"])(a,s,c,!1,null,"83b9f7f6",null);t["default"]=f.exports}}]);
-//# sourceMappingURL=chunk-2d0e95df.674c3083.js.map
+//# sourceMappingURL=chunk-2d0e95df.7b9da985.js.map
